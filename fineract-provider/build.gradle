@@ -64,7 +64,7 @@ project.ext.jerseyVersion = '1.17'
 project.ext.springDataJpaVersion = '1.7.0.RELEASE' // also change spring-boot-gradle-plugin version above
 
 project.ext.mysqlUser='root'
-project.ext.mysqlPassword='mysql'
+project.ext.mysqlPassword='r00t@am1'
 
 
 group = 'org.apache.fineract'
@@ -258,10 +258,10 @@ task dist(type:Zip){
     from war.outputs.files
     into(baseName + '-' + version)
 }
-
-compileJava{
-    dependsOn rat
-}
+//
+//compileJava{
+//    dependsOn rat
+//}
 pmd {
     sourceSets = [sourceSets.main]
     ignoreFailures = true
