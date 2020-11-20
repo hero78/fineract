@@ -1,0 +1,290 @@
+
+lsquid:S1192"ODefine a constant instead of duplicating this literal "accountBalance" 3 times.(ÛáÂúúÿÿÿÿ
+esquid:S1192à"MDefine a constant instead of duplicating this literal "dd MMMM yyyy" 5 times.(ü¬¤
+osquid:S1192«"WDefine a constant instead of duplicating this literal "Repayment 1 Done......" 3 times.(İˆâ
+¹squid:S1192ä" Define a constant instead of duplicating this literal "------------------------------CREATING NEW LOAN PRODUCT ---------------------------------------" 3 times.(¸ç½
+lsquid:S1192–"ODefine a constant instead of duplicating this literal "Entries ......" 6 times.(ŸŒùÿÿÿÿ
+psquid:S1192®"SDefine a constant instead of duplicating this literal "Repayment 2 ......" 3 times.(ÊÁöÈÿÿÿÿÿ
+vsquid:S1192à"YDefine a constant instead of duplicating this literal "Repayment 5 Done  ......" 3 times.(†àò‰øÿÿÿÿ
+ksquid:S1192Ï"SDefine a constant instead of duplicating this literal "Repayment 4 ......" 3 times.(ç‡êÜ
+tsquid:S1192º"WDefine a constant instead of duplicating this literal "Waive Interest  ......" 3 times.(ºË…ıÿÿÿÿ
+vsquid:S1192Ö"YDefine a constant instead of duplicating this literal "Repayment 4 Done  ......" 3 times.(¿È¸ƒıÿÿÿÿ
+psquid:S1192Ì"XDefine a constant instead of duplicating this literal "Repayment 3 Done ......" 3 times.(î‰–
+usquid:S1192·"XDefine a constant instead of duplicating this literal "Repayment 2 Done ......" 3 times.(·ûÿÿÿÿ
+ksquid:S1192¢"SDefine a constant instead of duplicating this literal "Repayment 1 ......" 4 times.(Úü‘„
+psquid:S1192Ù"SDefine a constant instead of duplicating this literal "Repayment 5 ......" 3 times.(½Ó¥ùøÿÿÿÿ
+ksquid:S1192Å"SDefine a constant instead of duplicating this literal "Repayment 3 ......" 3 times.(¿Šô 
+”squid:S1192"|Define a constant instead of duplicating this literal "CHECKING INCOME: ******************************************" 3 times.(·ñ°«
+jsquid:S00117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô•²§
+jsquid:S00117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô•²§
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô•²§
+osquid:S00117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¢Íûÿÿÿÿ
+osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıƒÍ·ÿÿÿÿÿ
+jsquid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô•²§
+@squid:S1148Ï"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ã"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148¯"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+„squid:S1450i"hRemove the "fixedDepositProductHelper" field and declare it as a local variable in the relevant methods.(Ş‰‹«üÿÿÿÿ
+ƒsquid:S1450k"lRemove the "recurringDepositProductHelper" field and declare it as a local variable in the relevant methods.(Ì¤Ÿ‡
+=squid:S1170K"!Make this final field static too.(ù§ƒ´øÿÿÿÿ
+8squid:S1170M"!Make this final field static too.(ú„ê‹
+8squid:S1170N"!Make this final field static too.(Ô½•
+8squid:S1170O"!Make this final field static too.(—Øõş
+8squid:S1170P"!Make this final field static too.(ìˆçÑ
+8squid:S1170Q"!Make this final field static too.(ÖéÛò
+8squid:S1170R"!Make this final field static too.(ÔÁÖ½
+7squid:S1170S"!Make this final field static too.(áê†]
+=squid:S1170T"!Make this final field static too.(ˆ¦öÖüÿÿÿÿ
+8squid:S1170U"!Make this final field static too.(Œıù
+8squid:S1170d"!Make this final field static too.(¹ Êš
+wsquid:S00116K"ZRename this field "DATE_OF_JOINING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù§ƒ´øÿÿÿÿ
+osquid:S00116M"WRename this field "LP_PRINCIPAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú„ê‹
+psquid:S00116N"XRename this field "LP_REPAYMENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô½•
+vsquid:S00116O"^Rename this field "LP_REPAYMENT_PERIOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Øõş
+ssquid:S00116P"[Rename this field "LP_INTEREST_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìˆçÑ
+zsquid:S00116Q"bRename this field "EXPECTED_DISBURSAL_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖéÛò
+ƒsquid:S00116R"kRename this field "LOAN_APPLICATION_SUBMISSION_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÁÖ½
+rsquid:S00116S"[Rename this field "TRANSACTION_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áê†]
+{squid:S00116T"^Rename this field "LOAN_TERM_FREQUENCY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¦öÖüÿÿÿÿ
+rsquid:S00116U"ZRename this field "INDIVIDUAL_LOAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œıù
+msquid:S00116\"URename this field "SP_BALANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÓ³
+ysquid:S00116]"\Rename this field "SP_DEPOSIT_AMOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®”êıÿÿÿÿ
+vsquid:S00116^"_Rename this field "SP_WITHDRAWAL_AMOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“©Ót
+€squid:S00116_"hRename this field "SP_WITHDRAWAL_AMOUNT_ADJUSTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïï¦ƒ
+qsquid:S00116a"YRename this field "REPAYMENT_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿˆí½
+xsquid:S00116b"[Rename this field "REPAYMENT_AMOUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”‡Ûøÿÿÿÿ
+usquid:S00116d"]Rename this field "AMOUNT_TO_BE_WAIVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ Êš
+Osquid:S1197a"8Move the array designator from the variable to the type.(Ÿˆí½
+Tsquid:S1197b"8Move the array designator from the variable to the type.(Ì”‡Ûøÿÿÿÿ
+Rsquid:S2696s"6Make the enclosing method "static" or remove this set.(Õ¥”¿üÿÿÿÿ
+Qsquid:S2209s"5Change this instance-reference to a static reference.(Õ¥”¿üÿÿÿÿ
+Qsquid:S2209t"5Change this instance-reference to a static reference.(ÔçßÄûÿÿÿÿ
+Rsquid:S2696u"6Make the enclosing method "static" or remove this set.(ÂŸ¤´ùÿÿÿÿ
+Qsquid:S2209u"5Change this instance-reference to a static reference.(ÂŸ¤´ùÿÿÿÿ
+Qsquid:S2209w"5Change this instance-reference to a static reference.(Ï•¥şÿÿÿÿ
+Qsquid:S2209w"5Change this instance-reference to a static reference.(Ï•¥şÿÿÿÿ
+Qsquid:S2209x"5Change this instance-reference to a static reference.(±âÓìüÿÿÿÿ
+Qsquid:S2209x"5Change this instance-reference to a static reference.(±âÓìüÿÿÿÿ
+Qsquid:S2209y"5Change this instance-reference to a static reference.(²Öóûÿÿÿÿ
+Qsquid:S2209y"5Change this instance-reference to a static reference.(²Öóûÿÿÿÿ
+Qsquid:S2209z"5Change this instance-reference to a static reference.(†œ¶íúÿÿÿÿ
+Qsquid:S2209z"5Change this instance-reference to a static reference.(†œ¶íúÿÿÿÿ
+Qsquid:S2209{"5Change this instance-reference to a static reference.(ûŒ¼¨ÿÿÿÿÿ
+Qsquid:S2209{"5Change this instance-reference to a static reference.(ûŒ¼¨ÿÿÿÿÿ
+Rsquid:S2209ˆ"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209ˆ"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209‹"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+Rsquid:S2209‹"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ŸŒùÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ñ°«
+P
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Úü‘„
+P
+squid:S106«"9Replace this use of System.out or System.err by a logger.(İˆâ
+U
+squid:S106®"9Replace this use of System.out or System.err by a logger.(ÊÁöÈÿÿÿÿÿ
+U
+squid:S106·"9Replace this use of System.out or System.err by a logger.(·ûÿÿÿÿ
+U
+squid:S106º"9Replace this use of System.out or System.err by a logger.(ºË…ıÿÿÿÿ
+U
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(òİ«ğûÿÿÿÿ
+P
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(¿Šô 
+P
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(î‰–
+P
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ç‡êÜ
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¿È¸ƒıÿÿÿÿ
+U
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(½Ó¥ùøÿÿÿÿ
+U
+squid:S106à"9Replace this use of System.out or System.err by a logger.(†àò‰øÿÿÿÿ
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(¸ç½
+P
+squid:S106î"9Replace this use of System.out or System.err by a logger.(Ï“µ£
+Rsquid:S2209û"5Change this instance-reference to a static reference.(©â†îıÿÿÿÿ
+Rsquid:S2209û"5Change this instance-reference to a static reference.(©â†îıÿÿÿÿ
+Rsquid:S2209…"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209…"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Lsquid:S2209ˆ"5Change this instance-reference to a static reference.(Ûç²G
+Lsquid:S2209ˆ"5Change this instance-reference to a static reference.(Ûç²G
+U
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Ù€›¬úÿÿÿÿ
+U
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(«ôûÿÿÿÿ
+Rsquid:S2209¹"5Change this instance-reference to a static reference.(ş€´ÿúÿÿÿÿ
+Rsquid:S2209¹"5Change this instance-reference to a static reference.(ş€´ÿúÿÿÿÿ
+Msquid:S2209Û"5Change this instance-reference to a static reference.(­æš…
+Msquid:S2209Û"5Change this instance-reference to a static reference.(­æš…
+Rsquid:S2209Ü"5Change this instance-reference to a static reference.(±âÓìüÿÿÿÿ
+Rsquid:S2209Ü"5Change this instance-reference to a static reference.(±âÓìüÿÿÿÿ
+Rsquid:S2209İ"5Change this instance-reference to a static reference.(©â†îıÿÿÿÿ
+Rsquid:S2209İ"5Change this instance-reference to a static reference.(©â†îıÿÿÿÿ
+Msquid:S2209Ş"5Change this instance-reference to a static reference.(•ˆ©¯
+Msquid:S2209Ş"5Change this instance-reference to a static reference.(•ˆ©¯
+Msquid:S2209ú"5Change this instance-reference to a static reference.(ä ê£
+Msquid:S2209ú"5Change this instance-reference to a static reference.(ä ê£
+Rsquid:S2209…"5Change this instance-reference to a static reference.(Éù†ıÿÿÿÿ
+Msquid:S2209†"5Change this instance-reference to a static reference.(Ü…ÎÏ
+Rsquid:S2209©"5Change this instance-reference to a static reference.(ŞÖÎûÿÿÿÿ
+Rsquid:S2209©"5Change this instance-reference to a static reference.(ŞÖÎûÿÿÿÿ
+Rsquid:S2209ª"5Change this instance-reference to a static reference.(±âÓìüÿÿÿÿ
+Rsquid:S2209ª"5Change this instance-reference to a static reference.(±âÓìüÿÿÿÿ
+Msquid:S2209«"5Change this instance-reference to a static reference.(“öİÿ
+Msquid:S2209«"5Change this instance-reference to a static reference.(“öİÿ
+Msquid:S2209È"5Change this instance-reference to a static reference.(ä ê£
+Msquid:S2209È"5Change this instance-reference to a static reference.(ä ê£
+Rsquid:S2209Ô"5Change this instance-reference to a static reference.(Òëßåıÿÿÿÿ
+Rsquid:S2209Ô"5Change this instance-reference to a static reference.(Òëßåıÿÿÿÿ
+Lsquid:S2209ß"5Change this instance-reference to a static reference.(Ë’Ù
+Rsquid:S2209à"5Change this instance-reference to a static reference.(ª³×©ıÿÿÿÿ
+U
+squid:S106ş"9Replace this use of System.out or System.err by a logger.(ÊÃîşÿÿÿÿ
+P
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(•İÊ
+qsquid:HiddenFieldCheckˆ"NRename "fixedDepositProductHelper" which hides the field declared at line 105.(í¶áù
+Msquid:S2209ˆ"5Change this instance-reference to a static reference.(í¶áù
+Msquid:S2209ˆ"5Change this instance-reference to a static reference.(í¶áù
+O
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(Î„ĞK
+Rsquid:S2209’"5Change this instance-reference to a static reference.(İ«µ¢ÿÿÿÿÿ
+Rsquid:S2209’"5Change this instance-reference to a static reference.(İ«µ¢ÿÿÿÿÿ
+Rsquid:S2209•"5Change this instance-reference to a static reference.(ŞŠ°×ùÿÿÿÿ
+Rsquid:S2209•"5Change this instance-reference to a static reference.(ŞŠ°×ùÿÿÿÿ
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(¹ÅìÙ
+zsquid:HiddenFieldCheckš"RRename "recurringDepositProductHelper" which hides the field declared at line 107.(Ê–şÌüÿÿÿÿ
+Rsquid:S2209š"5Change this instance-reference to a static reference.(Ê–şÌüÿÿÿÿ
+Rsquid:S2209š"5Change this instance-reference to a static reference.(Ê–şÌüÿÿÿÿ
+U
+squid:S106£"9Replace this use of System.out or System.err by a logger.(×¨˜Åüÿÿÿÿ
+Rsquid:S2209¤"5Change this instance-reference to a static reference.(ĞŠ©ùÿÿÿÿ
+Rsquid:S2209¤"5Change this instance-reference to a static reference.(ĞŠ©ùÿÿÿÿ
+Rsquid:S2209¨"5Change this instance-reference to a static reference.(âŠÔÿÿÿÿÿ
+Rsquid:S2209©"5Change this instance-reference to a static reference.(ì‘Éšüÿÿÿÿ
+_squid:S1854Æ"BRemove this useless assignment to local variable "TOTAL_INTEREST".(ûÆ†îÿÿÿÿÿ
+Rsquid:S2209¶"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209¶"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209¹"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+Rsquid:S2209¹"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+U
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(ŸŒùÿÿÿÿ
+^squid:S2142Î"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+P
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(Úü‘„
+P
+squid:S106à"9Replace this use of System.out or System.err by a logger.(İˆâ
+U
+squid:S106ã"9Replace this use of System.out or System.err by a logger.(ÊÁöÈÿÿÿÿÿ
+U
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(·ûÿÿÿÿ
+U
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(ºË…ıÿÿÿÿ
+U
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(òİ«ğûÿÿÿÿ
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(¿Šô 
+P
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(î‰–
+P
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ç‡êÜ
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(¿È¸ƒıÿÿÿÿ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(½Ó¥ùøÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(†àò‰øÿÿÿÿ
+gsquid:S00100¡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ„…Ç
+_squid:S1854º"BRemove this useless assignment to local variable "TOTAL_INTEREST".(ûÆ†îÿÿÿÿÿ
+`squid:S1854É"CRemove this useless assignment to local variable "FIRST_PRINCIPAL".(œ¬î„ùÿÿÿÿ
+Rsquid:S2209ª"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209ª"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209­"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+Rsquid:S2209­"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+U
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ŸŒùÿÿÿÿ
+^squid:S2142Â"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+P
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(Úü‘„
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(ü¯Øıÿÿÿÿ
+_squid:S1854’"BRemove this useless assignment to local variable "TOTAL_INTEREST".(ûÆ†îÿÿÿÿÿ
+ksquid:S1854‘"SRemove this useless assignment to local variable "PRINCIPAL_VALUE_FOR_EACH_PERIOD".(¢¨ŞĞ
+esquid:S1854ÿ"HRemove this useless assignment to local variable "FIRST_REPAYMENT_DATE".(ëãìÛÿÿÿÿÿ
+Rsquid:S2209ä"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209ä"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209î"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+Rsquid:S2209î"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸŒùÿÿÿÿ
+^squid:S2142š"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Msquid:S2209"5Change this instance-reference to a static reference.(æä£š
+Msquid:S2209"5Change this instance-reference to a static reference.(æä£š
+_squid:S1854‰"BRemove this useless assignment to local variable "TOTAL_INTEREST".(ûÆ†îÿÿÿÿÿ
+ksquid:S1854ˆ"SRemove this useless assignment to local variable "PRINCIPAL_VALUE_FOR_EACH_PERIOD".(¢¨ŞĞ
+esquid:S1854æ"HRemove this useless assignment to local variable "FIRST_REPAYMENT_DATE".(ëãìÛÿÿÿÿÿ
+Wsquid:S1854ß"?Remove this useless assignment to local variable "currentDate".(êÃ…É
+Rsquid:S2209Ã"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209Ã"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209Õ"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+Rsquid:S2209Õ"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+U
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ŸŒùÿÿÿÿ
+Msquid:S2209"5Change this instance-reference to a static reference.(æä£š
+Msquid:S2209"5Change this instance-reference to a static reference.(æä£š
+P
+squid:S106³"9Replace this use of System.out or System.err by a logger.(¸ç½
+_squid:S1854Ö"BRemove this useless assignment to local variable "TOTAL_INTEREST".(ûÆ†îÿÿÿÿÿ
+Rsquid:S2209Æ"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209Æ"5Change this instance-reference to a static reference.(ê¶©«ùÿÿÿÿ
+Rsquid:S2209É"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+Rsquid:S2209É"5Change this instance-reference to a static reference.(°­õ‡úÿÿÿÿ
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(ŸŒùÿÿÿÿ
+P
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(Úü‘„
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(·ñ°«
+P
+squid:S106è"9Replace this use of System.out or System.err by a logger.(İˆâ
+U
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(ÊÁöÈÿÿÿÿÿ
+P
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(·ñ°«
+U
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(·ûÿÿÿÿ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(ºË…ıÿÿÿÿ
+P
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(¿Šô 
+P
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(î‰–
+P
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ç‡êÜ
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(¿È¸ƒıÿÿÿÿ
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(½Ó¥ùøÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(†àò‰øÿÿÿÿ
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(¸ç½
+Psquid:S1481Æ"3Remove this unused "TOTAL_INTEREST" local variable.(ûÆ†îÿÿÿÿÿ
+Psquid:S1481º"3Remove this unused "TOTAL_INTEREST" local variable.(ûÆ†îÿÿÿÿÿ
+Qsquid:S1481É"4Remove this unused "FIRST_PRINCIPAL" local variable.(œ¬î„ùÿÿÿÿ
+Vsquid:S1481ÿ"9Remove this unused "FIRST_REPAYMENT_DATE" local variable.(ëãìÛÿÿÿÿÿ
+\squid:S1481‘"DRemove this unused "PRINCIPAL_VALUE_FOR_EACH_PERIOD" local variable.(¢¨ŞĞ
+Psquid:S1481’"3Remove this unused "TOTAL_INTEREST" local variable.(ûÆ†îÿÿÿÿÿ
+Hsquid:S1481ß"0Remove this unused "currentDate" local variable.(êÃ…É
+Vsquid:S1481æ"9Remove this unused "FIRST_REPAYMENT_DATE" local variable.(ëãìÛÿÿÿÿÿ
+\squid:S1481ˆ"DRemove this unused "PRINCIPAL_VALUE_FOR_EACH_PERIOD" local variable.(¢¨ŞĞ
+Psquid:S1481‰"3Remove this unused "TOTAL_INTEREST" local variable.(ûÆ†îÿÿÿÿÿ
+Psquid:S1481Ö"3Remove this unused "TOTAL_INTEREST" local variable.(ûÆ†îÿÿÿÿÿ
+Ysquid:S1068i"=Remove this unused "fixedDepositProductHelper" private field.(Ş‰‹«üÿÿÿÿ
+Xsquid:S1068k"ARemove this unused "recurringDepositProductHelper" private field.(Ì¤Ÿ‡

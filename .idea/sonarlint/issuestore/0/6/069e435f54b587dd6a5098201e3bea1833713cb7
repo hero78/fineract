@@ -1,0 +1,79 @@
+
+bsquid:S1192«"KDefine a constant instead of duplicating this literal "officeName" 5 times.(ß´²S
+bsquid:S1192£"JDefine a constant instead of duplicating this literal "accountNo" 6 times.(ÆŠ¨
+nsquid:S1192§"QDefine a constant instead of duplicating this literal "prefixType.value" 5 times.(…¨õ­ûÿÿÿÿ
+usquid:S1192¢"]Define a constant instead of duplicating this literal "error.msg.resource.not.found" 3 times.(æ±Œ
+csquid:S1192š"KDefine a constant instead of duplicating this literal "resourceId" 8 times.(öœ—ë
+Bsquid:S5411“"*Use the primitive boolean expression here.(¨õ›è
+Bsquid:S5411¥"*Use the primitive boolean expression here.(¨õ›è
+Bsquid:S5411¾"*Use the primitive boolean expression here.(¨õ›è
+Bsquid:S5411¡"*Use the primitive boolean expression here.(¨õ›è
+Bsquid:S5411Õ"*Use the primitive boolean expression here.(¨õ›è
+tsquid:S1450<"XRemove the "savingsId" field and declare it as a local variable in the relevant methods.(•ÕÖúÿÿÿÿ
+squid:S1450E"cRemove the "savingsAccountHelper" field and declare it as a local variable in the relevant methods.(Úâ¿ÿÿÿÿÿ
+{squid:S1450O"_Remove the "clientTypeCodeId" field and declare it as a local variable in the relevant methods.(Éƒ¦øÿÿÿÿ
+ysquid:S1450P"bRemove the "clientCodeValueName" field and declare it as a local variable in the relevant methods.(õ–æƒ
+vsquid:S1450Q"`Remove the "clientCodeValueId" field and declare it as a local variable in the relevant methods.(ıÁ—
+rsquid:S1450V"VRemove the "groupID" field and declare it as a local variable in the relevant methods.(âÃá¢úÿÿÿÿ
+nsquid:S1450W"WRemove the "centerId" field and declare it as a local variable in the relevant methods.(îÍúÒ
+ysquid:S1450X"]Remove the "groupAccountNo" field and declare it as a local variable in the relevant methods.(ï·ãüÿÿÿÿ
+=squid:S1170="!Make this final field static too.(ÄÁ¥‡ÿÿÿÿÿ
+=squid:S1170>"!Make this final field static too.(½ªãÿÿÿÿÿ
+=squid:S1170?"!Make this final field static too.(…â€óøÿÿÿÿ
+=squid:S1170@"!Make this final field static too.(ÿä²³øÿÿÿÿ
+=squid:S1170A"!Make this final field static too.(ß¤šıøÿÿÿÿ
+=squid:S1170B"!Make this final field static too.(âÚÌØøÿÿÿÿ
+=squid:S1170C"!Make this final field static too.(äåÇÑşÿÿÿÿ
+=squid:S1170L"!Make this final field static too.(ÛÅÚĞıÿÿÿÿ
+8squid:S1170M"!Make this final field static too.(â½ı½
+=squid:S1170R"!Make this final field static too.(ôÜÚ‹úÿÿÿÿ
+=squid:S1170S"!Make this final field static too.(¦¯¨ôıÿÿÿÿ
+8squid:S1170T"!Make this final field static too.(Ïêßß
+=squid:S1170U"!Make this final field static too.(éúŒîÿÿÿÿÿ
+squid:S00116L"bRename this field "MINIMUM_OPENING_BALANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÅÚĞıÿÿÿÿ
+zsquid:S00116M"bRename this field "ACCOUNT_TYPE_INDIVIDUAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â½ı½
+P
+squid:S106š"9Replace this use of System.out or System.err by a logger.(öœ—ë
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(¡×¡
+U
+squid:S106½"9Replace this use of System.out or System.err by a logger.(àÜÅÊøÿÿÿÿ
+P
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(—£‚€
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(º£ÌÛşÿÿÿÿ
+P
+squid:S106É"9Replace this use of System.out or System.err by a logger.(Àà°•
+P
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(³ë…¨
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(³ë…¨
+P
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(İßÿÁ
+P
+squid:S106€"9Replace this use of System.out or System.err by a logger.(³ë…¨
+fsquid:HiddenFieldCheckó">Rename "officeName" which hides the field declared at line 83.(ğ»ğ¥ÿÿÿÿÿ
+P
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ÂÙıë
+U
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(ü£§ øÿÿÿÿ
+U
+squid:S106’"9Replace this use of System.out or System.err by a logger.(¶Ä©«ÿÿÿÿÿ
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(©º°Øşÿÿÿÿ
+isquid:HiddenFieldCheck¨"ARename "loanShortName" which hides the field declared at line 84.(¦Ûšüÿÿÿÿÿ
+O
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ÁŞ
+U
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(°¿Åæüÿÿÿÿ
+U
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(ÊÃîşÿÿÿÿ
+U
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(‹Àõìıÿÿÿÿ
+isquid:HiddenFieldCheckŞ"ARename "loanShortName" which hides the field declared at line 84.(€“šöúÿÿÿÿ
+U
+squid:S106á"9Replace this use of System.out or System.err by a logger.(ß´¸øÿÿÿÿ
+O
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(ß°¼,

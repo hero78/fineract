@@ -28,3 +28,7 @@ UI front-end and the API back-end together into a ZIP:
     git clone --recursive  https://github.com/openMF/mifosx/
     git submodule update --init --recursive; git submodule status
     ./build.sh
+
+
+This command works to build a perfect deployment
+./gradlew -Penv=dev clean dist

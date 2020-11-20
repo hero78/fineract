@@ -1,0 +1,21 @@
+
+lsquid:S1192¸"ODefine a constant instead of duplicating this literal "ALL_FUNCTIONS" 10 times.(…ÛöÀıÿÿÿÿ
+ksquid:S1192Í"SDefine a constant instead of duplicating this literal "ALL_FUNCTIONS_READ" 3 times.(Êï›
+asquid:S1192ƒ"IDefine a constant instead of duplicating this literal "password" 3 times.(öéùË
+Fsquid:S1066è"/Merge this if statement with the enclosing one.(¬‘ÖO
+Gsquid:S1066ñ"/Merge this if statement with the enclosing one.(Õ¥š
+Gsquid:S1066ª"/Merge this if statement with the enclosing one.(ëèŠ•
+Lsquid:S1066²"/Merge this if statement with the enclosing one.(ÆÊ¬Íıÿÿÿÿ
+Gsquid:S1066û"/Merge this if statement with the enclosing one.(Õ¥š
+[squid:S00107«"BConstructor has 10 parameters, which is greater than 7 authorized.(šÜ«Ã
+[squid:S1155“">Use isEmpty() to check whether the collection is empty or not.(±ÒÈéøÿÿÿÿ
+jsquid:ModifiersOrderCheckB"EReorder the modifiers to comply with the Java Language Specification.(×µ•ª
+jsquid:S3776ß"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(“Çô±
+nsquid:S2068å"V'password' detected in this expression, review this potentially hard-coded credential.(³ÓÈş
+nsquid:S2068æ"V'password' detected in this expression, review this potentially hard-coded credential.(œã¥
+nsquid:S2068§"V'password' detected in this expression, review this potentially hard-coded credential.(–ã–
+Ysquid:S1126Í"AReplace this if-then-else statement by a single return statement.(Êï›
+^squid:S1126Ø"AReplace this if-then-else statement by a single return statement.(°ê¤ñùÿÿÿÿ
+Xsquid:S1126İ"AReplace this if-then-else statement by a single return statement.(ßÏøR
+nsquid:S2068ğ"V'password' detected in this expression, review this potentially hard-coded credential.(³ÓÈş
+nsquid:S2068ñ"V'password' detected in this expression, review this potentially hard-coded credential.(œã¥
