@@ -116,3 +116,13 @@ A
 NOTICE_SOURCE,0/1/010c7b9e3b0cba3d60db5a8e569a29df2b1c43eb
 >
 NOTICE_RELEASE,a/f/af1b0d051aea507ec5e52e99533ddb4323c0c844
+<
+CHANGELOG.md,a/b/ab09011fa121d0a2bb9fa4ca76094f2482b902b7
+S
+#fineract-provider/gradle.properties,4/9/49152ba4d5686c730c7a14aa855a4cac779a897a
+¤
+tfineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/EmbeddedTomcatWithSSLConfiguration.java,7/5/75773a8728fef838b73f6926fa9e61d46f00af9a
+¥
+ufineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/db/MariaDB4jDataSourceConfiguration.java,3/5/358a0f22f47ee74ac21690a5c50b3641593974ae
+œ
+lfineract-provider/src/main/java/org/apache/fineract/infrastructure/core/boot/db/DataSourceConfiguration.java,4/3/4323ac3a0ffc2a2f3388bb2cb06f37e4881d9bba
